@@ -1,0 +1,12 @@
+width=400
+height=400
+x_offset=1500
+y_offset=100
+padding=20
+font_size=14
+update_interval=200
+font=Assets/terminus.ttf
+background_r=45
+background_g=45
+background_b=45
+background_a=255
